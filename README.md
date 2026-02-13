@@ -36,7 +36,7 @@ The objective is to compare multiple ML models and evaluate their performance on
 |--------|----------|
 | Logistic Regression | 68% |
 | Random Forest | 60% |
-| Decision Tree | (Add Yours) |
+| Decision Tree | 48% |
 
 ---
 
